@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+#mytime{
+    color: white;
+    letter-spacing: 6px;
+    position:absolute;
+    font-size: 3em;
+left: 44%;
+top: 45%;
+}
